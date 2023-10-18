@@ -5,9 +5,11 @@
   </head>
   <body>
     <header>
-      <h3 align="center"> <b>Salesforce Developer :computer:</b> </h3> 
-      <p align="center"> <b>Apex Code</b> </p> <br>
-      <p align="center"> <b>Science Computer Student</b> </p>
+      <p align="center">
+      <b>Salesforce Developer :computer:</b> 
+       <b>Apex Code</b> <br>
+       <b>Science Computer Student</b>
+      </p>
       
   </header>
     <div>  
