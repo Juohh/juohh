@@ -6,7 +6,7 @@
   <body>
     <header>
       <h4><b>Salesforce Developer :computer:</b> </h4> 
-      <p><b>Apex Code</b></p> <br> <br>
+      <p><b>Apex Code</b></p> <br>
       <p><b>Science Computer Student</b></p>
       
   </header>
