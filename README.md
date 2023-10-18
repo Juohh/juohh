@@ -38,7 +38,7 @@ Contact <br> <br>
 
 <div>
 <a href="https://github.com/juohh">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juohh&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juohh&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=juohh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
