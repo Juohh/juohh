@@ -3,12 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Hello there!</title>
-    <style>
-      div {
-        color: blue;
-        
-      }
-  </style>
+    
   </head>
   <body>
     <header>
