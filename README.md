@@ -5,9 +5,9 @@
   </head>
   <body>
     <header>
-      <h2><b>Salesforce Developer :computer:</b> </h2> 
-      <h2><b>Apex Code</b></h2> <br> <br>
-      <h2><b>Science Computer Student</b></h2>
+      <h4><b>Salesforce Developer :computer:</b> </h4> 
+      <p><b>Apex Code</b></p> <br> <br>
+      <p><b>Science Computer Student</b></p>
       
   </header>
     <div>  
