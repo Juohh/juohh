@@ -6,8 +6,8 @@
   <body>
     <header>
       <p align="center">
-      <b>Salesforce Developer :computer:</b> 
-       <b>Apex Code</b> <br>
+       <b>Salesforce Developer :computer:</b> <br>
+       <b>Apex Code</b> 
        <b>Science Computer Student</b>
       </p>
       
