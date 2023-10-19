@@ -1,4 +1,6 @@
- ## Hello there! 
+<p align="center">
+## Hello there!
+</p>
 
 <div align="center">
       <p align="center">
