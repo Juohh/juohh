@@ -2,7 +2,7 @@
 
 <div align="center">
       <p align="center">
-       <b>Salesforce Developer :computer:</b> <br>
+       <b>Salesforce Developer :woman_technologist:</b> <br>
        <b>Apex Code</b> <br>
        <b>Science Computer Student</b>
       </p>
