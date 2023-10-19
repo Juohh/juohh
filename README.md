@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8">  
-  </head>
-  <body>
-    <header>
+<div align="center">
+  ## Hello there!
       <p align="center">
        <b>Salesforce Developer :computer:</b> <br>
        <b>Apex Code</b> <br>
        <b>Science Computer Student</b>
       </p>
+</div>
       
   </header>
     <div>
@@ -52,8 +48,6 @@ Contact <br> <br>
 - ⚡ Fun fact: ...
 -->
 
-  </body>
-</html>
       
 
   
